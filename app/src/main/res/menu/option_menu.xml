@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:title="@string/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="collapseActionView|always" />
+    <item
+        android:id="@+id/favoriteUser"
+        android:title="@string/favorite"
+        android:icon = "@drawable/ic_baseline_favorite_main"
+        app:showAsAction="always" />
+    <item android:id="@+id/theme_switch_button"
+        app:actionViewClass="com.google.android.material.switchmaterial.SwitchMaterial"
+        android:title=""
+        app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+
+    <string name="users_name">Username</string>
+    <string name="description">Deskripsi</string>
+    <string name="exp_repo">127 repository</string>
+    <string name="exp_followers">56092 followers</string>
+    <string name="exp_company">X Company</string>
+    <string name="exp_location">X Location</string>
+    <string name="submission">Submission 3</string>
+    <string name="search">search</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Masukan username</string>
+    <string name="exp_following">12812 following</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="detail_title">Detail User</string>
+    <string name="favorite">Favorite</string>
+</resources>
